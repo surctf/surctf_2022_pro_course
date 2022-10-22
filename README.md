@@ -17,9 +17,15 @@
 ### `#WEB`  
 [Питерские соли](tasks/web/spbsalts) (WEB **250**)  
   
+
+## Авторы решений
+* [Богдан Сторож](https://github.com/Klr1to)
+* [Максим Петухов](https://github.com/maksp86)  
+
+
 ## Организаторы
 * [Максим Заказчик](https://github.com/s4lat) — преподаватель и разработчик тасков `#PPC`  
 * [Егор Захаров](https://github.com/pigadoor) — преподаватель и разработчик тасков `#CRYPTO`  
 * [Эдуард Юнусов](https://github.com/Killllero0) — преподаватель и разработчик тасков `#ADMIN`  
 * [Сергей Кацур](https://github.com/richkats) — преподаватель и разработчик тасков `#WEB`  
-* [Евгений Живайкин](https://github.com/EZhivaikin) — преподаватель, разработчик платформы  
+* [Евгений Живайкин](https://github.com/EZhivaikin) — преподаватель, разработчик платформы и разработчик тасков `#REVERSE`  
