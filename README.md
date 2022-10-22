@@ -17,7 +17,7 @@
 ### `#WEB`  
 [Питерские соли](tasks/web/spbsalts) (WEB **250**)  
 ### `#REVERSE`  
-[console.log("jsfuck")](tasks/reverse/console_log_jsfuck) (REVERSE **150**)  
+[console.log("jsfuck")](tasks/reverse/console_log_jsfuck) (REVERSE **100**)  
   
 
 ## Авторы решений
@@ -29,5 +29,6 @@
 * [Максим Заказчик](https://github.com/s4lat) — преподаватель и разработчик тасков `#PPC`  
 * [Егор Захаров](https://github.com/pigadoor) — преподаватель и разработчик тасков `#CRYPTO`  
 * [Эдуард Юнусов](https://github.com/Killllero0) — преподаватель и разработчик тасков `#ADMIN`  
-* [Сергей Кацур](https://github.com/richkats) — преподаватель и разработчик тасков `#WEB`  
+* [Сергей Кацур](https://github.com/richkats) — преподаватель  
 * [Евгений Живайкин](https://github.com/EZhivaikin) — преподаватель, разработчик платформы и разработчик тасков `#REVERSE`  
+* [Дмитрий Абакумов](https://github.com/0MazaHacka0) - разработчик тасков `#WEB`  
