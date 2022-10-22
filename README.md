@@ -18,7 +18,7 @@
 [Питерские соли](tasks/web/spbsalts) (WEB **250**)  
 ### `#REVERSE`  
 [console.log("jsfuck")](tasks/reverse/console_log_jsfuck) (REVERSE **150**)  
-[Лучшая сдавалка флагов](tasks/reverse/best_flag_sender) (REVERSE **300**)    
+  
 
 ## Авторы решений
 * [Богдан Сторож](https://github.com/Klr1to)
