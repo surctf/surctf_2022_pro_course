@@ -44,3 +44,4 @@
 
 ~~Welcome to the club, buddy!~~
 ![](./img/welcome-to-the-club-buddy-butt-slap.gif)
+Как жаль, что таск не стоит three hundred bucks :_(
