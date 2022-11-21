@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+  chin_chan_chon:
+    container_name: chin_chan_chon
+    image: chin_chan_chon
+    build: .
+
+    ports:
+      - 8080:8080
+    restart: unless-stopped
+    read_only: true
