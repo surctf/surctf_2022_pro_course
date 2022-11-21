@@ -11,9 +11,6 @@
 [AttackAtDawn](tasks/crypto/attackatdawn/) (CRYPTO **100**)  
 ### `#PPC`  
 [习为你骄傲](tasks/ppc/xi_is_proud_of_you/) (PPC **200**)  
-### `#ADMIN`  
-[Красная метка](tasks/admin/redlabel/) (ADMIN **200**)  
-[Красная метка root](tasks/admin/redlabelroot/) (ADMIN **200**)  
 ### `#WEB`  
 [Питерские соли](tasks/web/spbsalts) (WEB **250**)  
 ### `#REVERSE`  
@@ -26,9 +23,9 @@
 
 
 ## Организаторы
-* [Максим Заказчик](https://github.com/s4lat) — преподаватель и разработчик тасков `#PPC`  
-* [Егор Захаров](https://github.com/pigadoor) — преподаватель и разработчик тасков `#CRYPTO`  
-* [Эдуард Юнусов](https://github.com/Killllero0) — преподаватель и разработчик тасков `#ADMIN`  
+* [Максим Заказчик](https://github.com/s4lat) — преподаватель и разработчик тасков
+* [Егор Захаров](https://github.com/pigadoor) — преподаватель и разработчик тасков
+* [Эдуард Юнусов](https://github.com/Killllero0) — преподаватель и разработчик тасков
 * [Сергей Кацур](https://github.com/richkats) — преподаватель  
-* [Евгений Живайкин](https://github.com/EZhivaikin) — преподаватель, разработчик платформы и разработчик тасков `#REVERSE`  
-* [Дмитрий Абакумов](https://github.com/0MazaHacka0) - разработчик тасков `#WEB`  
+* [Евгений Живайкин](https://github.com/EZhivaikin) — преподаватель, разработчик платформы и разработчик тасков 
+* [Дмитрий Абакумов](https://github.com/0MazaHacka0) - разработчик тасков
