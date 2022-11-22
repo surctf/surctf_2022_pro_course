@@ -1,4 +1,4 @@
-# surctf_pro_course_2022_writeups [⠀](https://youtu.be/dQw4w9WgXcQ)
+# surctf_2022_pro_course [⠀](https://youtu.be/dQw4w9WgXcQ)
   
 ## Таски  
 ### `#CRYPTO`  
